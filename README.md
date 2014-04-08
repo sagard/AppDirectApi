@@ -31,5 +31,7 @@ http://sag-basicshopping.rhcloud.com/ShoppingCart/GetParamServlet?url={eventUrl}
 Oauth-key:
 shoppingcart-8078
 
+You can use gmail or yahoo account for sso.
+
 ==================================================================================================
 User information is not persisted in the app,it read the data in ParseXML.java which could be persisted later.
